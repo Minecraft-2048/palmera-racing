@@ -1,0 +1,36 @@
+PALMERA RACING
+Jeu de course dans les rues de Palmera Bay, fait avec Unreal Engine 5.8.
+
+LANCER LE JEU
+Double-clique sur « Palmera Racing.exe ».
+Le premier lancement est plus lent : le jeu prépare ses shaders.
+PalmeraBay.exe lance le jeu complet en monde ouvert, avec son histoire.
+
+MENU
+Haut, bas : choisir une ligne
+Gauche, droite : changer le circuit, la voiture ou le nombre de tours
+Entrée : lancer la course
+
+COMMANDES
+Z Q S D ou flèches : accélérer, freiner, tourner
+Espace : frein à main, pour déraper
+Souris : regarder autour de la voiture
+V : replacer la caméra derrière la voiture
+R : revenir sur la piste après une sortie de route
+Échap : pause, graphismes, quitter
+La manette sert aussi à conduire. Le menu se règle au clavier.
+
+LES CIRCUITS
+Front de mer : 2,4 km au coucher du soleil, le long de la plage, 3 tours
+Centre-ville de nuit : 2,6 km entre les tours éclairées, 3 tours
+Tour des quartiers : 5,2 km en plein jour, 2 tours
+Orage sur le port : 1,9 km sous la pluie, route glissante, 3 tours
+Le record de chaque circuit est gardé pour son nombre de tours prévu.
+
+SI LE JEU RAME
+Échap, puis « Graphismes » : Bas, Moyen, Élevé ou Épique.
+
+CRÉDITS
+Unreal® Engine, Copyright 1998-2026, Epic Games, Inc. Tous droits réservés.
+Personnages du jeu complet créés avec MakeHuman et son pack d'assets libres CC0.
+Code source : https://github.com/Minecraft-2048/palmera-racing et https://github.com/Minecraft-2048/palmera-bay
